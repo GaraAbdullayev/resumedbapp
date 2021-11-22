@@ -1,0 +1,16 @@
+com\company\dao\impl\UserDaoImpl.class
+com\company\dao\inter\EmploymentDaoInter.class
+com\company\entity\Skill.class
+TestDrive.class
+com\company\entity\User.class
+com\company\dao\impl\CountryDaoImpl.class
+com\company\dao\impl\EmploymentDaoImpl.class
+com\company\dao\inter\AbstractDao.class
+com\company\entity\Country.class
+com\company\entity\EmploymentHistory.class
+com\company\dao\inter\CountryDaoInter.class
+com\company\dao\impl\SkillDaoImpl.class
+com\company\dao\inter\SkillDaoInter.class
+com\company\dao\inter\UserDaoInter.class
+main\Context.class
+com\company\entity\UserSkill.class
